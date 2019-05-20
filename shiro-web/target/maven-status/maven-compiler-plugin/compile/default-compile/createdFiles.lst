@@ -1,0 +1,9 @@
+com\imooc\fileter\RolesOrFilter.class
+com\imooc\vo\User.class
+com\imooc\session\RedisSessionDao.class
+com\imooc\cache\RedisCacheManager.class
+com\imooc\session\CustomSessionManager.class
+com\imooc\cache\RedisCache.class
+com\imooc\util\JedisUtil.class
+com\imooc\shiro\realm\CustomRealm.class
+com\imooc\controller\UserController.class
